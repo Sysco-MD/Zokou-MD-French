@@ -1,0 +1,60 @@
+# Préfixe de commande utilisé pour déclencher le bot
+PREFIX=🧛
+
+# Si défini sur "oui", le bot verra automatiquement tous les statuts WhatsApp
+AUTO_READ_STATUS=non
+
+# Si défini sur "oui", le bot téléchargera automatiquement tous les statuts WhatsApp
+AUTO_DOWNLOAD_STATUS=non
+
+# Le nom affiché de votre bot
+BOT_NAME=HAITI-MD
+
+# Le thème visuel pour les menus du bot (utilisez un nom prédéfini ou des liens médias séparés par des virgules)
+MENU_THEME=𝘿𝘽𝙋🌹
+
+# Si "non", les commandes ne fonctionneront pas en privé pour les autres
+PM_PERMIT=non
+
+# Si "oui", le bot est disponible pour tout le monde ; si "non", seul le propriétaire peut l'utiliser
+MODE_PUBLIC=non
+
+# Contrôle l'activité visible du bot :
+# 1 = en ligne, 2 = saisie, 3 = enregistrement, vide = afficher le statut réel
+PRESENCE=1
+
+# Identifiant de session WhatsApp (utilisé pour se connecter à votre compte)
+SESSION_ID=ZOKOU-MD-WHATSAPP-BOT=>ac6b9de11cs
+
+# Votre nom affiché (nom du propriétaire)
+OWNER_NAME=𝘿𝘽𝙋🌹✮͢≛⃝𝙇𝙊𝙍𝙀𝙉𝙕O
+
+# Votre numéro de téléphone au format international (ex : indicatif pays + numéro)
+OWNER_NUMBER=509 35 94 73 07
+
+# Nombre d'avertissements avant qu'un utilisateur ne soit sanctionné
+WARN_COUNT=3
+
+# Si "oui", le bot envoie un message de bienvenue au démarrage
+STARTING_BOT_MESSAGE=oui
+
+# Si "oui", le bot répond automatiquement aux messages privés
+PM_CHATBOT=oui
+
+# Si "oui", ajoute un délai entre les commandes pour éviter le spam
+ANTI_COMMAND_SPAM=non
+
+# Si "oui", les messages supprimés par d'autres vous seront envoyés en privé
+ANTI_DELETE_MESSAGE=oui
+
+# Si "oui", le bot réagit automatiquement aux messages entrants
+AUTO_REACT_MESSAGE=non
+
+# Si "oui", le bot réagit automatiquement aux statuts
+AUTO_REACT_STATUS=non
+
+# Définissez le fuseau horaire pour les fonctionnalités liées à l'heure (ex : messages programmés)
+TIME_ZONE=Africa/Sao_Tome
+
+# Environnement serveur utilisé pour exécuter le bot (ex : HEROKU, VPS, etc.)
+SERVER=vp
